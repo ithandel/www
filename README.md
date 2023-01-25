@@ -1,0 +1,2 @@
+# www-statics
+WWW Statics

@@ -1,3 +1,3 @@
-# ithandel.pl WWW
+# [Komputery Gniezno](https://komputery.gniezno.pl)
 
-https://ithandel.pl
+[Komputery Gniezno](https://komputery.gniezno.pl)

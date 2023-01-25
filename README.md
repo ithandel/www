@@ -1,2 +1,3 @@
-# www-statics
-WWW Statics
+# ithandel.pl WWW
+
+https://ithandel.pl

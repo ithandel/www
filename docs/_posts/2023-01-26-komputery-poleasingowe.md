@@ -1,4 +1,7 @@
-# [Komputery poleasingowe](https://ithandel.pl)
+---
+layout: post
+title:  "Komputery Poleasingowe"
+---
 
 [Komputery poleasingowe](https://ithandel.pl) to jedna z opcji dostępnych dla osób poszukujących niedrogiego sprzętu komputerowego. Są to komputery, które były używane przez firmy, instytucje lub organizacje, a po zakończeniu okresu leasingu zostają one sprzedawane na rynku wtórnym.
 

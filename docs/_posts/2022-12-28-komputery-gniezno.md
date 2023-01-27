@@ -13,4 +13,4 @@ Ale to nie wszystko. Nasz sklep oferuje również usługi serwisowe i naprawy ko
 
 W [Sklepie Komputerowym w Gnieźnie](https://ithandel.pl) znajdziesz wszystko, czego potrzebujesz, aby cieszyć się nowoczesną technologią. Odwiedź nas już dziś i przekonaj się, dlaczego jesteśmy najlepszym wyborem dla twoich potrzeb [komputerowych w Gnieźnie](https://ithandel.pl).
 
-Jeżeli **[komputery Gniezno](https://ithandel.pl)** to tylko **[ITHANDEL.PL](https://ithandel.pl) - Komputery / Drukarki / Serwis**
+Jeżeli **[komputery Gniezno](https://ithandel.pl)** to tylko **[ITHANDEL.PL - Komputery / Drukarki / Serwis](https://ithandel.pl)**

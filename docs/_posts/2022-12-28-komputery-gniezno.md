@@ -12,3 +12,5 @@ Co jednak wyróżnia nasz sklep na tle innych? Przede wszystkim nasz profesjonal
 Ale to nie wszystko. Nasz sklep oferuje również usługi serwisowe i naprawy komputerów. Jeśli twój komputer ma jakieś problemy, nie martw się, po prostu przynieś go do nas, a my zajmiemy się resztą.
 
 W [Sklepie Komputerowym w Gnieźnie](https://ithandel.pl) znajdziesz wszystko, czego potrzebujesz, aby cieszyć się nowoczesną technologią. Odwiedź nas już dziś i przekonaj się, dlaczego jesteśmy najlepszym wyborem dla twoich potrzeb [komputerowych w Gnieźnie](https://ithandel.pl).
+
+Jeżeli **[komputery Gniezno](https://ithandel.pl)** to tylko **[ITHANDEL.PL](https://ithandel.pl) - Komputery / Drukarki / Serwis**

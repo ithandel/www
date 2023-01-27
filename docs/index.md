@@ -4,6 +4,16 @@
 
 Najlepsze [komputery poleasingowe](https://ithandel.pl) są dostepne tylko w firmie [ITHANDEL.PL - Komputery / Drukarki / Serwis](https://ithandel.pl)
 
+## Posty
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## [Komputery poleasingowe](https://ithandel.pl)
 
 [Komputery poleasingowe](https://ithandel.pl) to jedna z opcji dostępnych dla osób poszukujących niedrogiego sprzętu komputerowego. Są to komputery, które były używane przez firmy, instytucje lub organizacje, a po zakończeniu okresu leasingu zostają one sprzedawane na rynku wtórnym.

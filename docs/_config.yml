@@ -1,3 +1,12 @@
 url: "https://komputery.gniezno.pl"
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+description: >
+  Najlepsze komputery poleasingowe w Gnieźnie.
+title: Komputery Gniezno
+
+theme: minima
+minima:
+  skin: dark
